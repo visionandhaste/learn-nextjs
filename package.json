@@ -4,7 +4,7 @@
     "build": "next build",
     "dev": "next dev --turbopack",
     "start": "next start",
-    "lint": "eslint", // Instead of "next lint"
+    "lint": "eslint",
     "lint:fix": "eslint --fix"
   },
   "dependencies": {
